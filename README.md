@@ -42,6 +42,10 @@ Ngrok Tunnel Checker is a command-line tool to check if Ngrok tunnels are runnin
 
 2. **Build the Program:**
    - Clone the repository and navigate to the project directory.
+   ```sh
+   git clone https://github.com/LightJkd/Ngrok-Tunnel-Checker.git
+   cd Ngrok-Tunnel-Checker
+   ```
    - Run the following commands:
      ```sh
      cargo build --release
@@ -68,6 +72,10 @@ Ngrok Tunnel Checker is a command-line tool to check if Ngrok tunnels are runnin
 
 2. **Build the Program:**
    - Clone the repository and navigate to the project directory.
+```sh
+   git clone https://github.com/LightJkd/Ngrok-Tunnel-Checker.git
+   cd Ngrok-Tunnel-Checker
+   ```
    - Run the following commands:
      ```sh
      cargo build --release
