@@ -111,7 +111,4 @@ async fn get_ngrok_tunnels() -> Result<Vec<NgrokTunnel>, Box<dyn std::error::Err
 
 ```
 
-### License
-* This project is licensed under the MIT License.”
-
 
