@@ -47,9 +47,9 @@ Ngrok Tunnel Checker is a command-line tool to check if Ngrok tunnels are runnin
    cd Ngrok-Tunnel-Checker
    ```
    - Run the following commands:
-     ```sh
-     cargo build --release
-     ```
+   ```sh
+   cargo build --release
+    ```
 
 3. **Run the Program:**
    - After building the program, navigate to the target directory:
@@ -77,9 +77,9 @@ Ngrok Tunnel Checker is a command-line tool to check if Ngrok tunnels are runnin
    cd Ngrok-Tunnel-Checker
    ```
    - Run the following commands:
-     ```sh
-     cargo build --release
-     ```
+   ```sh
+   cargo build --release
+   ```
 
 3. **Run the Program:**
    - After building the program, navigate to the target directory:
